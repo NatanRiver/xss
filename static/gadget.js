@@ -1,1 +1,1 @@
-<script>natan</script>
+alert(9);
