@@ -1,1 +1,1 @@
-<script>alert(9)</script>
+<script>alert(9);</script>
