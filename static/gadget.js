@@ -1,1 +1,1 @@
-<script>alert(9);</script>
+<h1 onload=alert(9)>dd</h1>
